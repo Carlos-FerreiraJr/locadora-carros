@@ -1,0 +1,24 @@
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.pdb
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Form1.resources
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.FrmCadCliente.resources
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.Cache
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.pdb
+c:\users\carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.FormConsulta.resources
+C:\Users\Carlos\documents\visual studio 2017\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.FrmInfo.resources
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Form1.resources
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.FormConsulta.resources
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.FrmCadCliente.resources
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.FrmInfo.resources
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\Users\Carlos\Desktop\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.pdb
